@@ -1,6 +1,6 @@
 
 // Hello fellow developer, hope you starred this project :) 
-// A star doesn't cost anything, but it's appreciated.
+// A star doesn't cost anything, and it's appreciated.
 // exec is to execute an OS command via NodeJS, but it's OS dependent. I left my Ubuntu one.
 // In case you're not on a module project, uncomment these ones and comment the 2 following ones
 // fs = require ('fs');
@@ -75,4 +75,4 @@ function main(){
 
 main();
 
-// Copyright Philippe Manzano. In France, copyright is automatically granted to the author of the work according to the Berne convention. No registration needed.
+// Copyright Philippe Manzano. In Europe, copyright is automatically granted to the author of the work according to the Berne convention. No registration needed.
