@@ -1,0 +1,13 @@
+digraph g {
+    label ="src/";
+    labelloc = top;
+    labeljust = left;
+    "main.js"->"./App.svelte";
+"./App.svelte"->"./Input.svelte";
+"./App.svelte"->"./Test.svelte";
+"./App.svelte"->"../importtest.js";
+"./App.svelte"->"lib/testlib.js";
+"./Input.svelte"->"./Test.svelte";
+"../importtest.js"->"./Test.svelte";
+"lib/testlib.js"->"./Test.svelte";
+}
