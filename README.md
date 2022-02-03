@@ -1,4 +1,4 @@
-Don't forget to star this project after you downloaded and made it work!
+Don't forget to **star** this project after you downloaded and made it work!
 
 
 # Svelte project?
