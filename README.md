@@ -1,7 +1,5 @@
 Don't forget to star this project after you downloaded and made it work!
 
-# walk-and-graph-svelte-components
- CLI node script to walk svelte and js files, to build a beautiful JPG of your dependencies aka "imports". Made without using external dependencies, only FS (Node) and regex.
 
 # Svelte project?
 The partially present svelte project here is just for you to test the `walk.js` script. 
