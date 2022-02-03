@@ -11,6 +11,7 @@ Simply  `git clone –depth 1 https://github.com/j2l/walk-and-graph-svelte-compo
 
 It's verbose (console logs) to help you if it breaks.
 It results in a `dot.dot` file and a `dot.dot.jpg` JPG image showing your components and other imports:
+
 ![dot.dot.jpg](dot.dot.jpg)
 
 I intentionally left many comments in the code and a simple dot.dot file for you to study.
