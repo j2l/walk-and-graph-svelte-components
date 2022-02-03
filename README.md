@@ -1,6 +1,5 @@
 Don't forget to **STAR** this project after you downloaded and made it work!
 
-
 # Svelte project?
 The partially present svelte project here is just for you to test the `walk.js` script. 
 This svelte project is just filled with `mport` statements.
@@ -14,6 +13,8 @@ It results in a `dot.dot` file and a `dot.dot.jpg` JPG image showing your compon
 
 ![dot.dot.jpg](dot.dot.jpg)
 
+Now, you simply copy walk.js to another project, maybe `grep -R import` to check for format of your import lines and `node walk.js src/main.js`
+again.
 I intentionally left many comments in the code and a simple dot.dot file for you to study.
 
 # Side Notes
