@@ -1,0 +1,12 @@
+{
+  "name": "walk-and-graph-svelte-components-main",
+  "version": "1.0.0",
+  "description": "Don't forget to **STAR** this project after you downloaded and made it work!",
+  "main": "walk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
