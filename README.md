@@ -3,7 +3,7 @@ Don't forget to **STAR** this project after you downloaded and made it work!
 # Svelte project?
 The partially present svelte project here is just for you to test the `walk.js` script. 
 This svelte project is just filled with `mport` statements.
-Simply  `git clone –-depth 1 https://github.com/j2l/walk-and-graph-svelte-components.git` or npx this project and use it to test (see below).
+Simply  `git clone –-depth 1 https://github.com/j2l/walk-and-graph-svelte-components.git` or npx degit this project and use it to test (see below).
 
 # Very simple usage
 `node walk.js src/main.js`
